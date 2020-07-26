@@ -10140,8 +10140,9 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
-  background-repeat: no-repeat;
+  background-color: black;
+  /*background-image: url("../assets/img/header-bg.jpg");*/
+  /*background-repeat: no-repeat;*/
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
