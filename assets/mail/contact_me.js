@@ -3,22 +3,34 @@ function validateEmail(email) {
     return re.test(email);
 }
 
+function validatePhone(phone) {
+    const pn = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
+    if(phone.match(pn)){
+        return true;
+    }else{
+        return false;
+    }
+}
+
 $('#contactForm').submit(function(e) {
     var name = $("input#inputName").val();
     var email = $("input#inputEmail").val();
     var phone = $("input#inputPhone").val();
     var message = $("textarea#inputMessage").val();
-
+    console.log(phone)
+    console.log(validatePhone(phone))
     if(name === ""){
         alertify.error('Please enter a valid name.');
     }else if(!validateEmail(email)){
         alertify.error('Please enter a valid email.');
     }else if(message === ""){
         alertify.error('Your message is blank.');
+    }else if (phone != "" && validatePhone(phone) == false){
+        alertify.error('Please enter a valid phone number.');
     }else{
         $.ajax({
             // My email
-            url: "https://formspree.io/mgenrpze",
+            url: "https://formspree.io/myynnloq",
             method: "POST",
             data: $(this).serialize(),
             dataType: "json"
