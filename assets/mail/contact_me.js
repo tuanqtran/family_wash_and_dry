@@ -17,8 +17,7 @@ $('#contactForm').submit(function(e) {
     var email = $("input#inputEmail").val();
     var phone = $("input#inputPhone").val();
     var message = $("textarea#inputMessage").val();
-    console.log(phone)
-    console.log(validatePhone(phone))
+
     if(name === ""){
         alertify.error('Please enter a valid name.');
     }else if(!validateEmail(email)){
