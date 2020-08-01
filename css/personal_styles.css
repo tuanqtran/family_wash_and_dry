@@ -43,6 +43,17 @@
     text-shadow: 3px 3px black;
 }
 
+.fwd-telephone {
+    color: inherit;
+    text-decoration: inherit !important;
+}
+
+#fwd-contact-text {
+    height: 100%;
+    color: white;
+    text-align: center;
+}
+
 #sendMessageButton {
     width: 100%;
 }
