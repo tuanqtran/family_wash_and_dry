@@ -10140,10 +10140,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/store/cover-photo-v1.jpg");
-  /*background-image: url("../assets/img/store/cover-photo-v2.jpg");*/
-  /*background-image: url("../assets/img/store/cover-photo-v3.jpg");*/
-  /*background-image: url("../assets/img/store/cover-photo-original.jpg");*/
+  background-image: url("../assets/img/store/cover-photo.jpg");
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
