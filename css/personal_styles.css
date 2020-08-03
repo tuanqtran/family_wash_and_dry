@@ -64,6 +64,13 @@
     background-color: #fed136;
 }
 
+.fwd-bubble {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
 #sendMessageButton {
     width: 100%;
 }
