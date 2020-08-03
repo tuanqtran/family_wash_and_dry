@@ -2,8 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d876f7c-bb19-46b1-b494-e7f0e53326a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/img/about/._cleaning.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/about/._cleaning.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/._about" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/._family_wash_and_dry_location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/._family_wash_and_dry_location2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/._family_wash_and_dry_location_mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/._family_wash_and_dry_location_mobile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/._favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/._header-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/._logos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/._map-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/._navbar-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/._1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/._2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/._3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/._4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/._cleaning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/._laundry.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/._laundry2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/._shirt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/._shop.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/dropoff/._shop.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/._weighing-scale.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/cleaning.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/dropoff/cleaning.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/laundry.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/dropoff/laundry.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/laundry2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/shirt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/shop.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/dropoff/shop.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/weighing-scale.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/family_wash_and_dry_location2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/header-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/._creative-market.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/._designmodo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/._envato.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/._themeforest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/creative-market.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/designmodo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/envato.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/themeforest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/map-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/navbar-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._01-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._01-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._02-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._02-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._03-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._03-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._04-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._04-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._05-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._05-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._06-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._06-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._IMG_0928e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._IMG_0960e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._IMG_0982.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._fullsize" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/._thumbnails" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/01-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/01-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/02-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/02-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/03-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/03-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/04-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/04-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/05-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/05-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/06-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/06-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/IMG_0928e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/IMG_0960e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/IMG_0982.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/._1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/._2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/._3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/._4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/._5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/._6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/._1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/._2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/._3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/._4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/._5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/._6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/._IMG_0914e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/._IMG_0924e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/._IMG_0928e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/._IMG_0933e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/._IMG_0955e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/._IMG_0960e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/._IMG_0989e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/._IMG_0999e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/._IMG_1009e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/IMG_0914e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/IMG_0924e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/store/coin_operated_washers_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/IMG_0928e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/store/coin_operated_washers_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/IMG_0933e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/store/coin_operated_dryers_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/IMG_0955e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/store/coin_operated_laundromat_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/IMG_0960e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/store/self_service_washateria.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/IMG_0989e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/store/parking_lot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/IMG_0999e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/store/vending_machines.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/store/IMG_1009e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/store/accessible_parking_spots.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/personal_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/personal_styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,13 +139,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="207" selection-start-line="207" selection-end-line="271" />
+            <state relative-caret-position="344">
+              <caret line="368" column="64" selection-start-line="368" selection-start-column="64" selection-end-line="368" selection-end-column="64" />
               <folding>
-                <marker date="1596296274755" expanded="true" signature="20666:20909" ph="..." />
+                <marker date="1596430169059" expanded="true" signature="12569:12704" ph="..." />
               </folding>
             </state>
           </provider>
@@ -37,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="617" column="156" selection-start-line="617" selection-start-column="156" selection-end-line="617" selection-end-column="156" />
+            <state relative-caret-position="209">
+              <caret line="7761" column="2" selection-start-line="7761" selection-start-column="2" selection-end-line="7761" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -46,7 +163,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="842">
+            <state relative-caret-position="580">
               <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -64,11 +181,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/personal_styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="408">
+              <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -77,36 +194,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fwd-contact-navigation</find>
-      <find>contactForm</find>
-      <find>ml</find>
-      <find>Hour</find>
-      <find>HOURS</find>
-      <find>ml-2</find>
-      <find>text-center</find>
-      <find>p-2</find>
-      <find>mp</find>
-      <find>mb-2</find>
+      <find>Family Owned and Operated Laundromat in Beaumont</find>
+      <find>service</find>
       <find>services</find>
-      <find>servicesModal1</find>
-      <find>servicesModal2</find>
-      <find>servicesModal3</find>
-      <find>href</find>
-      <find>4639</find>
-      <find>highlan</find>
-      <find>Use this area to describe your project</find>
-      <find>Car Wash and</find>
-      <find>m</find>
-      <find>media</find>
-      <find>sendMessageButton</find>
-      <find>min-width:</find>
-      <find>IMG_0982</find>
-      <find>col-sm</find>
-      <find>white</find>
-      <find>fwd-timeline-image</find>
+      <find>aboutUsModal1</find>
+      <find>aboutUsModal2</find>
+      <find>Step One</find>
       <find>Step Two</find>
-      <find>.fwd-rounded-circle</find>
-      <find>Washers and Dryers</find>
+      <find>Step Three</find>
+      <find>Step 1</find>
+      <find>text-just</find>
+      <find>p-</find>
+      <find>pl-</find>
+      <find>Hours of</find>
+      <find>Drop-Off Service</find>
+      <find>assets/img/portfolio/drop_off.jpg</find>
+      <find>aboutusmodal1</find>
+      <find>#drop-off</find>
+      <find>drop-off</find>
+      <find>masthead</find>
+      <find>cleaning.svg</find>
+      <find>tint</find>
+      <find>cover-photo-original</find>
+      <find>coin_operated_washer</find>
+      <find>section-heading</find>
+      <find>laundr</find>
+      <find>DROP-OFF SERVICE</find>
+      <find>p-5</find>
+      <find>about-us-modal</find>
+      <find>/portfolio/</find>
+      <find>btn btn-dark btn-social mx-2</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -115,6 +232,12 @@
       <replace>fwd-services</replace>
       <replace>services</replace>
       <replace>portfolio</replace>
+      <replace>aboutUsModal</replace>
+      <replace>Step 1</replace>
+      <replace>Step 2</replace>
+      <replace>Step 3</replace>
+      <replace>about-us</replace>
+      <replace>coin_operated_washers</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -124,11 +247,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/assets/mail/contact_me.php" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/assets/mail/contact_me.js" />
-        <option value="$PROJECT_DIR$/css/personal_styles.css" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/personal_styles.css" />
       </list>
     </option>
   </component>
@@ -145,7 +268,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,23 +284,47 @@
               <item name="family_wash_and_dry" type="b2602c69:ProjectViewProjectNode" />
               <item name="family_wash_and_dry" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="family_wash_and_dry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="family_wash_and_dry" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="dropoff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="family_wash_and_dry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="family_wash_and_dry" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="family_wash_and_dry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="family_wash_and_dry" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="mail" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/store" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/store" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
@@ -219,17 +365,18 @@
       <workItem from="1596253275042" duration="42000" />
       <workItem from="1596253338483" duration="3525000" />
       <workItem from="1596257800761" duration="7404000" />
+      <workItem from="1596424536774" duration="3677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38911000" />
+    <option name="totallyTimeSpent" value="46691000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="23" width="1920" height="1057" extended-state="0" />
+    <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28434506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21565495" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -269,12 +416,8 @@
     <entry file="file://$PROJECT_DIR$/assets/mail/._jqBootstrapValidation.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/portfolio/._01-full.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/portfolio/._01-thumbnail.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/portfolio/._01-full.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/portfolio/._01-thumbnail.jpg" />
     <entry file="file://$PROJECT_DIR$/assets/img/._navbar-logo.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -284,12 +427,48 @@
     <entry file="file://$PROJECT_DIR$/assets/img/family_wash_and_dry_location.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/dropoff/cleaning.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/mail/jqBootstrapValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9916">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="842">
+        <state relative-caret-position="580">
           <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="7761" column="2" selection-start-line="7761" selection-start-column="2" selection-end-line="7761" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="368" column="64" selection-start-line="368" selection-start-column="64" selection-end-line="368" selection-end-column="64" />
+          <folding>
+            <marker date="1596430169059" expanded="true" signature="12569:12704" ph="..." />
           </folding>
         </state>
       </provider>
@@ -301,27 +480,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="617" column="156" selection-start-line="617" selection-start-column="156" selection-end-line="617" selection-end-column="156" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/personal_styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="207" selection-start-line="207" selection-end-line="271" />
-          <folding>
-            <marker date="1596296274755" expanded="true" signature="20666:20909" ph="..." />
-          </folding>
+        <state relative-caret-position="408">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
         </state>
       </provider>
     </entry>

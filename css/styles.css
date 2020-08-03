@@ -10140,9 +10140,10 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  /*background-color: black;*/
-  background-image: url("../assets/img/store/IMG_0914e.jpg");
-  /*background-repeat: no-repeat;*/
+  background-image: url("../assets/img/store/cover-photo-v1.jpg");
+  /*background-image: url("../assets/img/store/cover-photo-v2.jpg");*/
+  /*background-image: url("../assets/img/store/cover-photo-v3.jpg");*/
+  /*background-image: url("../assets/img/store/cover-photo-original.jpg");*/
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
