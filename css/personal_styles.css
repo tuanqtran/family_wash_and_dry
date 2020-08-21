@@ -220,9 +220,14 @@
 
 
 /* Media Adjustments */
+/* Mobile View Section */
 @media (max-width: 767px) {
     #fwd-close-image {
         width: 2rem;
+    }
+
+    header.masthead {
+        background-image: url("../assets/img/store/cover-photo-mobile.jpg");
     }
 }
 
