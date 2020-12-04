@@ -1,3 +1,14 @@
+#contact, #drop-off, #portfolio, .margin-top-add {
+    margin-top: 5rem;
+}
+
+.footer-dropoff {
+    border-top: solid #fed136 3px
+}
+
+.remove-margin-top {
+    margin-top: 0 !important;
+}
 .fwd-contact-section {
     padding: 3rem;
 }
@@ -218,6 +229,10 @@
 /* Media Adjustments */
 /* Mobile View Section */
 @media (max-width: 767px) {
+    #contact, #drop-off, #portfolio, .margin-top-add {
+        margin-top: 3rem;
+    }
+
     #fwd-close-image {
         width: 2rem;
     }
