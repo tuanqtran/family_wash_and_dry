@@ -10140,7 +10140,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/store/cover-photo.webp");
+  background-image: url("../assets/img/store/cover-photo.jpg");
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
@@ -10445,7 +10445,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../assets/img/map-image.webp");
+  background-image: url("../assets/img/map-image.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
